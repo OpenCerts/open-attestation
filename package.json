@@ -45,7 +45,7 @@
     "rollup-plugin-commonjs": "10.0.1",
     "ts-jest": "24.0.2",
     "ts-node": "8.0.3",
-    "typescript": "3.4.2"
+    "typescript": "3.6.2"
   },
   "dependencies": {
     "ajv": "^6.10.0",
